@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RedirectMatch 403 ^.*/config
+RedirectMatch 403 ^.*/includes
+RedirectMatch 403 ^.*/models
+
+<IfModule mod_dtimeout.c>
+<Files ~ ".php">
+SetEnvIf Request_URI "entity_excel_files.php" DynamicTimeout=300
+</Files>
+</IfModule>

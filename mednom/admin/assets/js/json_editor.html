@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON EDITOR</title>
+    <script src="assets/js/jquery-2.1.1.min.js"></script>
+    <script src="assets/js/jquery-html5sortable.js"></script>
+    <script src="assets/js/json_editor.js"></script>
+    <script src="assets/js/commons.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/json_editor.css">
+</head>
+<body>
+    Categories 
+    <div class="je_main_container">
+        <textarea class="je_json_data" placeholder="value" style="display: none">{
+  "name": "admin_entities",
+  "display_name": "Entities",
+  "views": {
+    "entity_table_view": {
+      "name": "entity_table_view",
+      "display_name": "View Entities",
+      "show_menu": "true"
+    },
+    "entity_table_edit": {
+      "name": "entity_table_edit",
+      "display_name": "Edit Entity"
+    },
+    "entity_table_delete": {
+      "name": "entity_table_delete",
+      "display_name": "Delete Entity"
+    },
+    "entity_table_add": {
+      "name": "entity_table_add",
+      "display_name": "Add Entity",
+      "show_menu": "true"
+    }
+  },
+  "table_columns": {
+    "name": {
+      "name": "name",
+      "data_type": "varname",
+      "unique": "true",
+      "not_empty": "true"
+    },
+    "attributes": {
+      "name": "attributes",
+      "data_type": "json"
+    }
+  }
+}</textarea>
+        <textarea class="je_json_schema" placeholder="value" style="display: none"></textarea>
+        <!--<table class="je_panel_container">
+            <tr>
+                <td class="je_panel_left">
+                    <div class="je_option_button" onclick="je_option_click(this)"></div>
+                </td>
+                <td class="je_panel_right">
+                </td>
+            </tr>
+        </table>
+        <div class="je_list_container_wrap">
+            <div class="je_list_container">
+                <div class="je_list_item">
+                    <table class="je_panel_container">
+                        <tr>
+                            <td class="je_panel_left">
+                                <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                <textarea class="je_key" placeholder="key">name</textarea>
+                                <div class="je_key_colon"></div>
+                            </td>
+                            <td class="je_panel_right">
+                                <textarea class="je_value_small" placeholder="value">admin_entities</textarea>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="je_list_item">
+                    <table class="je_panel_container">
+                        <tr>
+                            <td class="je_panel_left">
+                                <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                <textarea class="je_key">display_name</textarea>
+                                <div class="je_key_colon"></div>
+                            </td>
+                            <td class="je_panel_right">
+                                <textarea class="je_value_small">admin_entities</textarea>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="je_list_item">
+                    <table class="je_panel_container">
+                        <tr>
+                            <td class="je_panel_left">
+                                <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                <textarea class="je_key">selection_data_function_name</textarea>
+                            </td>
+                            <td class="je_panel_right">
+                            </td>
+                        </tr>
+                    </table>
+                    <div class="je_list_container_wrap">
+                        <div class="je_list_container">
+                            <div class="je_list_item">
+                                <table class="je_panel_container">
+                                    <tr>
+                                        <td class="je_panel_left">
+                                            <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                            <textarea class="je_key">name</textarea>
+                                            <div class="je_key_colon"></div>
+                                        </td>
+                                        <td class="je_panel_right">
+                                            <input type="checkbox" class="je_value_checkbox">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="je_list_item">
+                                <table class="je_panel_container">
+                                    <tr>
+                                        <td class="je_panel_left">
+                                            <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                            <textarea class="je_key">display_name</textarea>
+                                            <div class="je_key_colon"></div>
+                                        </td>
+                                        <td class="je_panel_right">
+                                            <textarea class="je_value_big">admin_entities</textarea>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="je_list_item">
+                                <table class="je_panel_container">
+                                    <tr>
+                                        <td class="je_panel_left">
+                                            <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                            <textarea class="je_key">selection_data</textarea>
+                                        </td>
+                                        <td class="je_panel_right">
+                                        </td>
+                                    </tr>
+                                </table>
+                                <div class="je_list_container_wrap">
+                                    <div class="je_list_container">
+                                        <div class="je_list_item">
+                                            <table class="je_panel_container">
+                                                <tr>
+                                                    <td class="je_panel_right">
+                                                        <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                                        <textarea class="je_value_small" placeholder="value"></textarea>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="je_list_item">
+                                            <table class="je_panel_container">
+                                                <tr>
+                                                    <td class="je_panel_right">
+                                                        <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                                        <textarea class="je_value_small" placeholder="value"></textarea>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="je_list_item">
+                                            <table class="je_panel_container">
+                                                <tr>
+                                                    <td class="je_panel_right">
+                                                        <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                                        <textarea class="je_value_small" placeholder="value"></textarea>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="je_list_item">
+                                            <table class="je_panel_container">
+                                                <tr>
+                                                    <td class="je_panel_right">
+                                                        <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                                        <textarea class="je_value_small" placeholder="value"></textarea>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        
+                                        
+                                    </div>
+                                    <table class="je_panel_container">
+                                        <tr>
+                                            <td class="je_panel_left">
+                                                <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                            </td>
+                                            <td class="je_panel_right">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <table class="je_panel_container">
+                            <tr>
+                                <td class="je_panel_left">
+                                    <div class="je_option_button" onclick="je_option_click(this)"></div>
+                                </td>
+                                <td class="je_panel_right">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                
+            </div>
+            <table class="je_panel_container">
+                <tr>
+                    <td class="je_panel_left">
+                        <div class="je_option_button" onclick="je_option_click(this)"></div>
+                    </td>
+                    <td class="je_panel_right">
+                    </td>
+                </tr>
+            </table>
+        </div>-->
+    </div>
+
+
+</body>
+</html>

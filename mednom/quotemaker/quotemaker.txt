@@ -1,0 +1,22 @@
+Quotemaker Functional doc
+Directory Structure
+Main folder contains all the view php files
+Assets: Contains all CSS and JavaScript Files
+Lib: Contains the common files like header,footer,session extra along with module function files. All functions are defined in the functions.php and dbfunctionbyjugal.php
+Phpmailer: Contains email settings
+Tcpdf : Library for pdf generation
+Tinymce: Editor files
+Steps in integrating Quotemaker to a website
+1 Import database file 
+2 Open config.php file from lib directory and update database details
+That all required to integrate quotemaker
+For updating any image in generated pdf update corresponding image in tcpdf/examples/image folder.For header update logo.jpg and for stamp update Labocon-Stamp-and-Signatutre.png
+For changing product attributes/specification make the required changes in viewproduct.php in main folder
+For changing product price make the required changes in viewproductPrice.php in main folder.
+For sending catalog  attachment with email just uncomment catalog code from sendemailwithpdf.php and sendemailpdfaction.php from main folder
+
+
+
+domain tool 
+
+import domain table and just update config details in index.php and add_data2.php in domain,s,p folder

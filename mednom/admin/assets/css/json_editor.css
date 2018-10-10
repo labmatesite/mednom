@@ -1,0 +1,118 @@
+.je_main_container{
+    border: 2px solid rgb(200, 200, 200);
+    padding: 5px;
+}
+.je_list_container_wrap{
+    margin-left: 37px;
+    margin-bottom: 20px;
+    border-left: 2px solid rgb(200, 200, 200);
+    padding: 2px;
+}
+.je_list_item{
+    
+}
+.je_panel_container{
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.je_panel_left{
+    width: 240px;
+    margin: 0;
+    padding: 1px;
+    border: 0;
+    vertical-align:top;
+}
+.je_panel_right{
+    margin: 0;
+    padding: 1px;
+    border: 0;
+    vertical-align:top;
+}
+.je_option_button{
+    float: left;
+    border: 2px solid rgba(0,0,0,0);
+    background-image: none;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 18px;
+    /*border: 2px solid rgb(200, 200, 200);*/
+    /*background-image: url(../images/option_button.png);*/
+}
+.je_option_button_last{
+    /*opacity: 0.3;*/
+}
+    
+.je_option_button:hover{
+    border: 2px solid rgb(200, 200, 200);
+    background-image: url(../images/option_button.png);
+    /*opacity: 1;*/
+}
+.je_key_colon{
+    float: left;
+    margin-left: 2px;
+    background-color: white;
+    background-image: url(../images/key_colon.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 20px;
+    
+}
+.je_key{
+    float: left;
+    margin-left: 1px;
+    width: 200px;
+    min-width: 200px;
+    max-width: 200px;
+    height: 18px;
+    border: none;
+    font-size: 14px;
+    font-family: Helvetica;
+    resize: none;
+}
+.je_value_small{
+    float: left;
+    min-width: 350px;
+    height: 18px;
+    border: none;
+    font-size: 14px;
+    font-family: Helvetica;
+}
+.je_value_big{
+    float: left;
+    min-width: 350px;
+    height: 36px;
+    border: none;
+    font-size: 14px;
+    font-family: Helvetica;
+}
+
+.je_option_menu {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    background-color: white;
+    border: 2px solid rgb(200, 200, 200);
+    top: 20px;
+    left: -2px;
+    overflow-y: auto;
+}
+
+.je_option_menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+.je_option_menu li {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 5px 5px 5px;
+    font-size: 14px;
+    font-family: helvetica;
+}
+.je_option_menu li:hover {
+    background-color: rgb(200, 200, 200);
+}

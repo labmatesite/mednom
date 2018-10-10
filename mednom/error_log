@@ -1,0 +1,169 @@
+[26-Mar-2018 01:06:39 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home3/biodeals/public_html/labotronics.com/application/config/routes.php on line 93
+[26-Mar-2018 02:10:50 America/Denver] PHP Parse error:  syntax error, unexpected ''</h3>' (T_ENCAPSED_AND_WHITESPACE) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 262
+[26-Mar-2018 02:22:59 America/Denver] PHP Fatal error:  Call to a member function get_category() on null in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 14
+[26-Mar-2018 02:24:54 America/Denver] PHP Fatal error:  Call to a member function get_category() on null in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 14
+[26-Mar-2018 02:25:06 America/Denver] PHP Fatal error:  Call to a member function get_category() on null in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 14
+[26-Mar-2018 05:20:10 America/Denver] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home3/biodeals/public_html/labotronics.com/application/views/product.php on line 393
+[26-Mar-2018 05:54:52 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/biodeals/public_html/labotronics.com/application/views/sub_cat_view.php on line 8
+[26-Mar-2018 21:49:12 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 167
+[26-Mar-2018 21:52:19 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:52:32 America/Denver] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:52:39 America/Denver] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:52:59 America/Denver] PHP Parse error:  syntax error, unexpected '$sub_cat_list' (T_VARIABLE) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:53:03 America/Denver] PHP Parse error:  syntax error, unexpected '$sub_cat_list' (T_VARIABLE) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:53:11 America/Denver] PHP Parse error:  syntax error, unexpected '$sub_cat_list' (T_VARIABLE) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 38
+[26-Mar-2018 21:54:51 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 169
+[26-Mar-2018 22:29:55 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:30:25 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:30:55 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:31:26 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:31:56 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:32:27 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:32:57 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:33:27 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:33:31 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:33:58 America/Denver] PHP Fatal error:  Cannot redeclare Labmodel::get_product_list() in /home3/biodeals/public_html/labotronics.com/application/models/Labmodel.php on line 284
+[26-Mar-2018 22:34:20 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 111
+[26-Mar-2018 22:40:24 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 107
+[26-Mar-2018 22:46:24 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 162
+[26-Mar-2018 22:55:14 America/Denver] PHP Parse error:  syntax error, unexpected ''image' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 447
+[26-Mar-2018 23:15:33 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/biodeals/public_html/labotronics.com/application/views/product.php on line 54
+[26-Mar-2018 23:23:35 America/Denver] PHP Fatal error:  Cannot redeclare mail() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 241
+[26-Mar-2018 23:23:37 America/Denver] PHP Fatal error:  Cannot redeclare mail() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 241
+[27-Mar-2018 01:07:41 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 500
+[27-Mar-2018 04:59:59 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 407
+[27-Mar-2018 06:20:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 227
+[27-Mar-2018 06:20:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 227
+[27-Mar-2018 22:54:43 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home3/biodeals/public_html/labotronics.com/application/views/product.php on line 458
+[29-Mar-2018 04:29:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 107
+[29-Mar-2018 21:52:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 21:54:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:17:52 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:17:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:45:20 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:03 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:05 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:06 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:20 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:49:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[29-Mar-2018 22:51:21 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 315
+[09-Apr-2018 22:07:33 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 105
+[09-Apr-2018 22:07:33 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 105
+[09-Apr-2018 22:09:40 America/Denver] PHP Fatal error:  Class 'Labmodel' not found in /home3/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[09-Apr-2018 22:17:54 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 103
+[09-Apr-2018 22:40:32 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/biodeals/public_html/labotronics.com/application/views/super_cat.php on line 160
+[09-Apr-2018 22:41:22 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 452
+[09-Apr-2018 22:49:55 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/super_cat.php on line 393
+[09-Apr-2018 22:52:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/super_cat.php on line 113
+[09-Apr-2018 22:58:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/super_cat.php on line 113
+[09-Apr-2018 22:59:09 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/super_cat.php on line 118
+[09-Apr-2018 23:02:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 117
+[09-Apr-2018 23:07:38 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 444
+[09-Apr-2018 23:10:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 145
+[09-Apr-2018 23:11:58 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 444
+[09-Apr-2018 23:12:37 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 145
+[09-Apr-2018 23:37:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/productlist.php on line 445
+[09-Apr-2018 23:48:04 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:04 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:04 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:05 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:05 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:05 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:05 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[09-Apr-2018 23:48:05 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 68
+[10-Apr-2018 00:15:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/index.php on line 105
+[10-Apr-2018 02:44:26 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 104
+[10-Apr-2018 03:13:25 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/biodeals/public_html/labotronics.com/application/views/description.php on line 493
+[11-Apr-2018 02:26:42 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 103
+[11-Apr-2018 02:34:04 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 400
+[11-Apr-2018 02:34:10 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 400
+[11-Apr-2018 02:39:57 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 7
+[11-Apr-2018 02:47:07 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 45
+[11-Apr-2018 02:47:16 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 348
+[11-Apr-2018 02:48:43 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 348
+[11-Apr-2018 03:10:54 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 100
+[11-Apr-2018 03:11:14 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 348
+[11-Apr-2018 03:30:21 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 344
+[12-Apr-2018 04:50:49 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:51:48 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:52:36 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:52:44 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:53:07 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:53:17 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:53:25 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:53:40 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:54:14 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:54:52 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:54:53 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:54:55 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:54:58 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:55:13 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:55:16 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:55:18 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:55:19 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 04:56:06 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 100
+[12-Apr-2018 04:56:10 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_sub_desc() in /home3/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 57
+[12-Apr-2018 22:27:04 America/Denver] PHP Fatal error:  Call to undefined function meta_description() in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 33
+[12-Apr-2018 22:27:15 America/Denver] PHP Fatal error:  Call to undefined function meta_description() in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 33
+[14-Apr-2018 00:44:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/biodeals/public_html/labotronics.com/application/views/index.php on line 219
+[14-Apr-2018 05:42:35 America/Denver] PHP Parse error:  syntax error, unexpected ''assets/images/image_not_found' (T_ENCAPSED_AND_WHITESPACE) in /home3/biodeals/public_html/labotronics.com/application/views/header.php on line 273
+[28-May-2018 04:29:58 America/Denver] PHP Fatal error:  Call to a member function get_parent_categories() on null in /home2/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 398
+[28-May-2018 04:31:07 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_parent_categories() in /home2/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 398
+[28-May-2018 04:31:09 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_parent_categories() in /home2/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 398
+[28-May-2018 04:31:55 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_footer_cat() in /home2/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 399
+[28-May-2018 04:31:57 America/Denver] PHP Fatal error:  Call to undefined method Labmodel::get_footer_cat() in /home2/biodeals/public_html/labotronics.com/application/controllers/Labmate.php on line 399
+[19-Jun-2018 22:55:30 America/Denver] PHP Fatal error:  Call to a member function product_name() on null in /home2/biodeals/public_html/labotronics.com/application/controllers/Home.php on line 104
+[19-Jun-2018 22:55:32 America/Denver] PHP Fatal error:  Call to a member function product_name() on null in /home2/biodeals/public_html/labotronics.com/application/controllers/Home.php on line 104
+[19-Jun-2018 22:55:44 America/Denver] PHP Fatal error:  Call to a member function product_name() on null in /home2/biodeals/public_html/labotronics.com/application/controllers/Home.php on line 104
+[19-Jun-2018 22:55:48 America/Denver] PHP Fatal error:  Call to a member function product_name() on null in /home2/biodeals/public_html/labotronics.com/application/controllers/Home.php on line 104
+[20-Jun-2018 05:35:28 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:35:35 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:35:40 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:36:10 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:36:16 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:36:21 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:36:25 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:36:27 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:37:12 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:38:06 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 128
+[20-Jun-2018 05:38:09 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 128
+[20-Jun-2018 05:38:25 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 128
+[20-Jun-2018 05:38:34 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[20-Jun-2018 05:38:35 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:38:44 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:38:57 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:38:57 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:39:05 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:39:09 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:39:18 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[20-Jun-2018 05:39:56 America/Denver] PHP Fatal error:  Cannot redeclare Mymodel::get_random_product() in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 313
+[01-Jul-2018 22:17:03 America/Denver] PHP Fatal error:  Call to undefined method Mymodel::get_secound_cat() in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 55
+[01-Jul-2018 22:17:06 America/Denver] PHP Fatal error:  Call to undefined method Mymodel::get_secound_cat() in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 55
+[01-Jul-2018 22:18:59 America/Denver] PHP Fatal error:  Call to undefined method Mymodel::get_secound_cat() in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 55
+[01-Jul-2018 22:22:40 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[01-Jul-2018 22:22:58 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[01-Jul-2018 22:22:58 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[01-Jul-2018 22:25:48 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[01-Jul-2018 22:25:48 America/Denver] PHP Fatal error:  Class 'Mymodel' not found in /home2/biodeals/public_html/labotronics.com/system/core/Loader.php on line 305
+[01-Jul-2018 22:25:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 500
+[04-Jul-2018 01:28:58 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 52
+[04-Jul-2018 01:29:01 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 52
+[04-Jul-2018 02:09:28 America/Denver] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 68
+[04-Jul-2018 02:09:51 America/Denver] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 68
+[04-Jul-2018 02:09:54 America/Denver] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 68
+[04-Jul-2018 02:10:16 America/Denver] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 68
+[04-Jul-2018 02:11:10 America/Denver] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 68
+[04-Jul-2018 02:12:50 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 92
+[04-Jul-2018 02:20:11 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 33
+[04-Jul-2018 02:20:45 America/Denver] PHP Parse error:  syntax error, unexpected '?>' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 33
+[04-Jul-2018 02:21:05 America/Denver] PHP Parse error:  syntax error, unexpected '?>' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 33
+[04-Jul-2018 02:21:47 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 33
+[04-Jul-2018 03:21:04 America/Denver] PHP Parse error:  syntax error, unexpected '$session_category' (T_VARIABLE), expecting ',' or ';' in /home2/biodeals/public_html/labotronics.com/application/views/catalog.php on line 35
+[04-Jul-2018 03:21:28 America/Denver] PHP Fatal error:  Call to a member function num_rows() on boolean in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 1031
+[04-Jul-2018 03:22:04 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/biodeals/public_html/labotronics.com/application/models/Mymodel.php on line 1004
+[09-Jul-2018 04:19:25 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/biodeals/public_html/labotronics.com/index.php on line 225
+[09-Jul-2018 04:19:55 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/biodeals/public_html/labotronics.com/index.php on line 225
+[09-Jul-2018 04:20:10 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/biodeals/public_html/labotronics.com/index.php on line 225
+[09-Jul-2018 04:21:03 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/biodeals/public_html/labotronics.com/index.php on line 225
+[09-Jul-2018 04:21:11 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/biodeals/public_html/labotronics.com/index.php on line 225

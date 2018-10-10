@@ -1,0 +1,92 @@
+[11-Apr-2015 05:47:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(10): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(16): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:47:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(10): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(16): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:47:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(10): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(16): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:47:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(10): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(16): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:48:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(10): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(16): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:49:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(5): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(11): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:50:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(5): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(11): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 05:54:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/labotronics/public_html/linkupdate/lib/database.php:11
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/database.php(11): PDO->__construct('', NULL, NULL)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(5): pdo_db()
+#2 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(11): getorganisation()
+#3 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/database.php on line 11
+[11-Apr-2015 08:41:52 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, integer given in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 27
+[11-Apr-2015 10:17:40 UTC] PHP Notice:  Undefined index: org_name in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 32
+[11-Apr-2015 10:18:15 UTC] PHP Notice:  Undefined index: org_name in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 32
+[13-Apr-2015 06:11:23 UTC] PHP Warning:  Missing argument 1 for get_product_attributes(), called in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 25 and defined in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 15
+[13-Apr-2015 06:11:23 UTC] PHP Notice:  Undefined variable: proid in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 19
+[13-Apr-2015 06:11:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php:19
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(19): PDOStatement->execute(Array)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(25): get_product_attributes()
+#2 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 19
+[13-Apr-2015 06:12:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php:19
+Stack trace:
+#0 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(19): PDOStatement->execute(Array)
+#1 /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php(25): get_product_attributes(2880)
+#2 {main}
+  thrown in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 19
+[14-Apr-2015 07:08:04 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 65
+[14-Apr-2015 07:08:04 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 49
+[14-Apr-2015 07:13:27 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 66
+[14-Apr-2015 07:13:28 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 50
+[14-Apr-2015 07:13:46 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 66
+[14-Apr-2015 07:13:46 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 50
+[14-Apr-2015 07:15:59 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 67
+[14-Apr-2015 07:15:59 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 51
+[14-Apr-2015 07:17:04 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 67
+[14-Apr-2015 07:17:04 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 51
+[14-Apr-2015 07:22:51 UTC] PHP Notice:  Undefined variable: username in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 62
+[14-Apr-2015 07:22:52 UTC] PHP Notice:  Undefined offset: 0 in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 51
+[14-Apr-2015 12:01:27 UTC] PHP Warning:  Missing argument 1 for get_quoteproducts(), called in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 30 and defined in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 19
+[14-Apr-2015 12:01:27 UTC] PHP Notice:  Undefined variable: refid in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 23
+[15-Apr-2015 05:35:11 UTC] PHP Notice:  Undefined variable: stmt in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 12
+[15-Apr-2015 05:35:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 12
+[15-Apr-2015 05:36:07 UTC] PHP Notice:  Undefined variable: stmt in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 12
+[15-Apr-2015 05:36:07 UTC] PHP Notice:  Trying to get property of non-object in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 12
+[15-Apr-2015 05:36:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/labotronics/public_html/linkupdate/lib/dbfunctionjugal.php on line 12

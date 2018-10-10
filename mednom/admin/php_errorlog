@@ -1,0 +1,177 @@
+[19-Jun-2017 01:54:12 CST6CDT] PHP Fatal error:  Uncaught Exception: Statement could not prepare on get_all  in /home/labtron0/public_html/admin/models/admin_general.php:87
+Stack trace:
+#0 /home/labtron0/public_html/admin/header.php(16): et_get_all(Object(mysqli), 'et_entities', Array)
+#1 /home/labtron0/public_html/admin/index.php(2): require_once('/home/labtron0/...')
+#2 {main}
+  thrown in /home/labtron0/public_html/admin/models/admin_general.php on line 87
+[19-Jun-2017 02:05:17 CST6CDT] PHP Fatal error:  Uncaught Exception: Statement could not prepare on get_all  in /home/labtron0/public_html/admin/models/admin_general.php:87
+Stack trace:
+#0 /home/labtron0/public_html/admin/header.php(16): et_get_all(Object(mysqli), 'et_entities', Array)
+#1 /home/labtron0/public_html/admin/index.php(2): require_once('/home/labtron0/...')
+#2 {main}
+  thrown in /home/labtron0/public_html/admin/models/admin_general.php on line 87
+[19-Jun-2017 06:00:27 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:283
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Distillation Te...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 283
+[19-Jun-2017 06:00:47 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:283
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 283
+[19-Jun-2017 06:08:53 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:283
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 283
+[19-Jun-2017 06:17:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:283
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 283
+[19-Jun-2017 06:40:21 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[19-Jun-2017 07:14:25 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 07:31:46 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 07:35:13 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 07:55:41 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 07:55:54 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 08:02:32 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[19-Jun-2017 08:02:45 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[19-Jun-2017 08:06:38 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[20-Jun-2017 05:32:52 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[20-Jun-2017 07:26:13 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Distillation Te...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[21-Jun-2017 00:36:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[21-Jun-2017 00:36:23 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[21-Jun-2017 04:04:07 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[21-Jun-2017 04:04:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[21-Jun-2017 05:45:27 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[21-Jun-2017 05:45:55 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[22-Jun-2017 07:17:40 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[22-Jun-2017 07:20:42 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[22-Jun-2017 07:20:45 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/labtron0/public_html/admin/includes/PHPExcel/Calculation/Functions.php on line 581
+[03-Jul-2017 01:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'Rotational Visc...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[06-Jul-2017 02:42:46 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 02:20:32 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 02:35:08 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 02:44:33 America/Chicago] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 02:55:05 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 02:55:12 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 03:08:15 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 03:09:23 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 03:09:51 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 03:18:05 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 04:41:26 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:08:34 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:12:32 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:14:30 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:15:36 America/Chicago] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:16:03 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php:284
+Stack trace:
+#0 /home/labtron0/public_html/admin/models/admin_products_categories.php(155): conv_image('/home/labtron0/...', '/home/labtron0/...', 150, 150, 90, true)
+#1 /home/labtron0/public_html/admin/models/admin_general.php(1036): et_products_gen_extras(Object(mysqli), Array, Array)
+#2 /home/labtron0/public_html/admin/entity_excel_files_process.php(21): et_update_excel_file(Object(mysqli), Array, 'table top separ...')
+#3 /home/labtron0/public_html/admin/entity_excel_files.php(11): require_once('/home/labtron0/...')
+#4 {main}
+  thrown in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:16:53 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[07-Jul-2017 07:21:17] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/labtron0/public_html/admin/includes/commons.php on line 278
+[07-Jul-2017 07:21:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/labtron0/public_html/admin/includes/commons.php on line 278
+[07-Jul-2017 07:23:48 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[22-Sep-2017 00:10:01 CST6CDT] PHP Fatal error:  Call to a member function execute() on boolean in /home/labtron0/public_html/admin/models/admin_general.php on line 199
+[22-Sep-2017 01:00:24 CST6CDT] PHP Fatal error:  Call to a member function execute() on boolean in /home/labtron0/public_html/admin/models/admin_general.php on line 199
+[22-Sep-2017 23:48:49 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[22-Sep-2017 23:49:06 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[22-Sep-2017 23:52:46 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[22-Sep-2017 23:59:08 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:01:15 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:07:11 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:09:22 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:10:36 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:11:35 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:13:40 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:15:37 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:15:41 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:15:50 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:21:34 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[23-Sep-2017 00:26:07 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 00:11:58 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 00:50:56 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 00:51:28 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 00:55:45 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 01:10:37 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 01:11:27 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 01:17:02 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 01:19:28 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[25-Sep-2017 01:32:54 CST6CDT] PHP Fatal error:  Class 'Imagick' not found in /home/labtron0/public_html/admin/includes/commons.php on line 284
+[15-Jan-2018 04:15:35 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/labtron0/public_html/admin/entity_excel_files.php on line 66
+[15-Jan-2018 04:15:44 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/labtron0/public_html/admin/entity_excel_files.php on line 66
+[15-Jan-2018 06:57:05 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/labtron0/public_html/admin/entity_excel_files.php on line 66
